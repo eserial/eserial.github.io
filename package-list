@@ -2,12 +2,10 @@ hu.elte.eserial.annotation
 hu.elte.eserial.annotation.enumeration
 hu.elte.eserial.annotation.includematcherevaluator
 hu.elte.eserial.annotation.inclusionrule
-hu.elte.eserial.annotation.processor
 hu.elte.eserial.builder
 hu.elte.eserial.exception
 hu.elte.eserial.mapper
 hu.elte.eserial.model
 hu.elte.eserial.recursion
-hu.elte.eserial.recursion.model
 hu.elte.eserial.serializer
 hu.elte.eserial.util
